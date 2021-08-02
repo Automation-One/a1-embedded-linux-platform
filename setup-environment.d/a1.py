@@ -20,7 +20,7 @@ def __set_defaults_a1_yocto():
                          (varname,))
         sys.stderr.write("       Set MACHINE variable with one of the possible values.\n"
                          "       Possible values are: %s\n\n"
-                         "       Ex: MACHINE=imx6ull-a1-basic source setup-environment build\n"
+                         "       Ex: MACHINE=imx6ull-a1-r1 source setup-environment build\n"
                          % valid_vals)
         sys.exit(1)
 
