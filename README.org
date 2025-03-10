@@ -7,6 +7,10 @@
 #+OPTIONS: date:nil
 #+OPTIONS: toc:nil
 
+* Deprecated
+
+Please Note that this Repo has been deprecated. Please use the kas-a1, as well as meta-a1-platform and meta-a1-extras repos instead.
+
 * Supported boards
 
 - Automation One i.MX6ULL Rev. 1 board
